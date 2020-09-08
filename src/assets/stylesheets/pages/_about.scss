@@ -1,26 +1,26 @@
 .page-about {
-  h1 {
-    color: var(--color-purple);
-  }
+	h1 {
+		color: var(--color-purple);
+	}
 
-  main {
-    text-align: right;
-  }
+	main {
+		text-align: right;
+	}
 
-  header {
-    background-color: var(--color-purple);
-  }
+	header {
+		background-color: var(--color-purple);
+	}
 
-  header a,
-  header p {
-    color: var(--color-grey-light-1);
-  }
+	header a,
+	header p {
+		color: var(--color-grey-light-1);
+	}
 
-  header a:hover {
-    color: var(--color-grey-dark-1);
-  }
+	header a:hover {
+		color: var(--color-grey-dark-1);
+	}
 
-  main p {
-    margin-top: 5rem;
-  }
+	main p {
+		margin-top: 5rem;
+	}
 }
