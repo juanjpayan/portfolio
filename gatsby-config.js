@@ -3,7 +3,7 @@ module.exports = {
 		author: 'Amar Zia Arslaan',
 		title: 'Gatsby Starter Template sasslan'
 	},
-	pathPrefix: '/gatsby-starter-sasslan',
+	pathPrefix: '/gatsby-juan-portfolio',
 	plugins: [
 		'gatsby-plugin-resolve-src',
 		'gatsby-plugin-sass',
