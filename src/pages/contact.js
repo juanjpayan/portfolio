@@ -7,8 +7,6 @@ import Container from 'components/Container';
 import mail from 'assets/images/SVG/mail.svg';
 import linked from 'assets/images/SVG/linkedin.svg';
 import github from 'assets/images/SVG/github.svg';
-import dribbble from 'assets/images/SVG/dribbble.svg';
-import insta from 'assets/images/SVG/instagram.svg';
 
 const ContactPage = () => {
 	return (
@@ -20,11 +18,7 @@ const ContactPage = () => {
 				<h1>Contact</h1>
 				<p>Let's get in touch!</p>
 				<div className="contact__icon">
-					<a
-						href="https://www.linkedin.com/in/juan-j-perez-payan-9b654b67/"
-						target="_blank"
-						rel="noopener noreferrer"
-					>
+					<a href="https://www.linkedin.com/in/juan-j-perez-payan/" target="_blank" rel="noopener noreferrer">
 						<svg className="contact__icon-item">
 							<use xlinkHref={`#${linked.id}`} />
 						</svg>
@@ -36,21 +30,9 @@ const ContactPage = () => {
 						</svg>
 					</a>
 
-					<a href="https://dribbble.com/arslaanamar/shots" target="_blank" rel="noopener noreferrer">
-						<svg className="contact__icon-item">
-							<use xlinkHref={`#${dribbble.id}`} />
-						</svg>
-					</a>
-
 					<a href="mailto:juanj.perez.payan@gmail.com" rel="noopener noreferrer">
 						<svg className="contact__icon-item">
 							<use xlinkHref={`#${mail.id}`} />
-						</svg>
-					</a>
-
-					<a href="https://www.instagram.com/arslaanamar/" target="_blank" rel="noopener noreferrer">
-						<svg className="contact__icon-item">
-							<use xlinkHref={`#${insta.id}`} />
 						</svg>
 					</a>
 				</div>

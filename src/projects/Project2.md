@@ -4,7 +4,23 @@ date: "08/2020"
 type: "Full Stack"
 ---
 
-Ut sed orci a magna accumsan interdum non vitae enim. In vulputate sed nisi non accumsan. Morbi urna metus, venenatis ut venenatis non, egestas ac justo. Aenean urna elit, hendrerit quis accumsan et, pharetra at neque. Nunc faucibus porta dolor, sit amet pharetra nulla posuere sit amet. Aenean bibendum magna vel turpis tempus blandit. This is an easter egg lol. Cras euismod lectus mauris, quis maximus libero porta eget. Pellentesque tempus massa diam, quis laoreet nulla tincidunt eget. Cras vitae sem dapibus enim volutpat interdum id a neque. Morbi vitae ultrices diam. Aliquam sed scelerisque nisi. Nullam non enim convallis, tincidunt tortor id, dictum mauris. Mauris a viverra leo, eu dictum orci. Nunc eget commodo purus. Proin eu velit vitae augue luctus ultrices id fermentum sem.
+<br />
+
+A web application that connects owners of exotic pets with pet sitters.
+
+<br />
+
+Taking care of a dog or a cat can be easy, but what about when the you are the owner of exotic animals like snakes, hedgehogs or turtles and want to go on vacation? Our site solves this issue but giving peace of mind the owners of those beautiful animals by giving them a place to find pet sitters for them.
+
+<br />
+
+We used yarn packages and APIs to put all this together so our users can have a profile page where they can have a calendar to when are they going to need a sitter, as well as one for their pets to see all their information and necessary instructions for their care. A location search engine where they can see which sitters are closer to them and even a video-call option so they can see in real time how their pets are doing.
+
+<br />
+<br />
+
+![Home Page](./petster.png)
+
 <br />
 <br />
 

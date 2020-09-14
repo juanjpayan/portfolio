@@ -2,10 +2,15 @@
 title: "Brewery finder"
 date: "07/2020"
 type: "Front End"
-preview: ![]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum ante eu mauris posuere egestas at nec metus. Sed suscipit id ante ac suscipit. Aliquam purus eros, condimentum a elit in, viverra vehicula quam. Proin sed quam elementum, vestibulum arcu ac, ornare leo. Donec iaculis diam ac ex hendrerit, sodales ultricies justo pharetra. Ut auctor, risus eleifend posuere ullamcorper, velit tellus mollis ex, nec condimentum lorem lacus eu erat. Aliquam tempus lacus id ante ultricies sodales. Nam tincidunt dui nunc, eget pharetra odio congue vulputate. Etiam faucibus arcu nunc, non fringilla odio dignissim ac. 
+<br />
+
+Using the OpenBrewery API we created with React a brewery finder application where beer enthusiasts can find a place to go and try new flavors.
+
+<br />
+
+We used React Bootstrap for the design and included a location feature using the Google Maps API so our users can see the exact location of our breweries. Our cards change dynamically when you look through them by name or city.
 
 <br />
 <br />
