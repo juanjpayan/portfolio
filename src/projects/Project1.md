@@ -1,5 +1,5 @@
 ---
-title: "Brewery finder"
+title: "Brewery Finder"
 date: "07/2020"
 type: "Front End"
 ---
