@@ -15,7 +15,7 @@ We used React Bootstrap for the design and included a location feature using the
 <br />
 <br />
 
-![Home Page](./brewery.png)(https://damp-lake-80060.herokuapp.com/)
+[![Home Page](./brewery.png)](https://damp-lake-80060.herokuapp.com/)
 
 <br />
 <br />
