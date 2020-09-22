@@ -19,9 +19,9 @@ We used yarn packages and APIs to put all this together so our users can have a 
 <br />
 <br />
 
-![Home Page](./petster.png)
+[![Home Page](./petster.png)](https://petster-exotic.herokuapp.com/)
 
 <br />
 <br />
 
-# [See Project](https://petster-exotic.herokuapp.com/)
+# [See Project GitHub Repo](https://github.com/juanjpayan/Petster-Exotic)
