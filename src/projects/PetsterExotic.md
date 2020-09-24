@@ -10,11 +10,11 @@ A web application that connects owners of exotic pets with pet sitters.
 
 <br />
 
-Taking care of a dog or a cat can be easy, but what about when the you are the owner of exotic animals like snakes, hedgehogs or turtles and want to go on vacation? Our site solves this issue but giving peace of mind the owners of those beautiful animals by giving them a place to find pet sitters for them.
+Taking care of a dog or a cat can be easy, but what about when you are the owner of exotic animals like snakes, hedgehogs, or turtles and want to go on vacation? Our site solves this issue by giving owners of these beautiful animals a place to find pet sitters, and in turn, peace of mind.
 
 <br />
 
-We used yarn packages and APIs to put all this together so our users can have a profile page where they can have a calendar to when are they going to need a sitter, as well as one for their pets to see all their information and necessary instructions for their care. A location search engine where they can see which sitters are closer to them and even a video-call option so they can see in real time how their pets are doing.
+We used yarn packages and APIs to put all this together so our users can have a profile page where they can have a calendar to when are they going to need a sitter, as well as one for their pets to see all their information and necessary instructions for their care. Our location search engine gives owners the ability to find which sitters are close to them and even a video-call option, so they can see in real time how their pets are doing.
 
 <br />
 <br />
